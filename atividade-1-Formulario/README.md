@@ -23,6 +23,13 @@
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
+## Performance, Acessibilidade, Boas Praticas e SEO
+<br/>
+
+![performance](https://user-images.githubusercontent.com/60360540/188878942-3489a67e-b391-4d8e-bdfa-9f2512b75bd0.png)
+
+<br/>
+
 ## Autor
 
 | [<img src="https://user-images.githubusercontent.com/60360540/186234612-f71248a4-79ba-4e59-b162-0b948d9a97dc.jpeg" width=115><br><sub>@felipe-fe</sub>](https://www.linkedin.com/in/felipe-fe/) |
