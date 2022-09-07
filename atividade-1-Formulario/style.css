@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.conteiner {
+    background: #292727;
+    padding: 15px;
+}
+
+h5 {
+    color: #ffffff;
+    font-size: 30px;
+    padding-left: 25px;
+}
+
+h4 {
+    font-size: 60px;
+    padding: 20px 38px;
+}
+
+hr {
+    margin: 15px 167px 15px 40px;
+}
+
+table {
+    width: 1200px;
+    padding-left: 38px;
+}
+
+th, td {
+    padding: 12px; /*Espaçamento interno*/
+    text-align: center; /*Alinhar o texto no centro*/
+    border: 1px solid #999; /*Borda superior*/
+}
+
+th {
+    font-size: 16px; /*Definindo o tanho da fonte*/
+    letter-spacing:0.1em; /*Espaçamento entre letras*/
+}
+
+tr:hover {
+    background-color: #a2cac9; /*Cor na linha*/
+}
+
+td.reprovado:hover {
+    background-color: #e02222; /*Cor na linha*/
+}
