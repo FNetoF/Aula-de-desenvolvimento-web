@@ -1,5 +1,7 @@
 * {
     margin: 0;
+    padding: 0;
+    border: 0;
 }
 
 body {
@@ -9,7 +11,7 @@ body {
 
 main {
     text-align: center;
-    height: 450px;
+    height: 480px;
     width: 400px;
     border-radius: 12px;
     background-color: #5fe36a;
@@ -17,7 +19,7 @@ main {
 
 .conteiner {
     margin: auto;
-    margin-top: 200px;
+    margin-top: 100px;
 }
 
 h1 {
@@ -50,7 +52,7 @@ section {
 }
 
 button {
-    margin: 0 6px 0 6px;
+    margin: 6px 6px 0 6px;
     padding: 10px;
     border: none;
     border-radius: 6px;
@@ -59,10 +61,12 @@ button {
 }
 
 button:hover {
-    background-color: #0d0e0d; /* Green */
+    background-color: #0d0e0d;
     color: #ffffff;
 }
 
 .result {
-    font-size: 25px;
+    font-size: 35px;
+    margin: 10px 0;
+    padding: 10px;
 }
