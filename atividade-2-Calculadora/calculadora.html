@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Calculadora - Aluno: Felipe Ferreira dos Santos Neto">
+        <!-- style -->
+        <link rel="stylesheet" type="text/css" href="./style.css">
+        <title>Formulario HTML</title>
+    </head>
+    <body>
+        <main class="conteiner">
+            <h1>Calculadora</h1>
+            <h2>Primeiro Número</h2>
+            <input type="number" id="n1" title="Informe um numero">
+            <h3>Segundo Número</h3>
+            <input type="number" id="n2" title="Informe outro numero"><br><br>
+            <section>
+                <button onclick="somar()">Somar</button>
+                <button onclick="subtrair()">Subtrair</button>
+                <button onclick="multiplicar()">Multiplicar</button>
+                <button onclick="dividir()">Dividir</button>
+            </section>
+            <h4 class="result"><span id="resultado"></span></h4>
+        </main>
+    </body>
+    <script type="text/javascript" src="calculadora.js"></script>
+</html>
