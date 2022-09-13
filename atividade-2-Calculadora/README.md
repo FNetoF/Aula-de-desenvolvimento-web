@@ -3,7 +3,7 @@
 ## Sobre o Projeto
 
 <p>
-    O projeto apresenta uma calculadora com duas entradas, utilizando html5, css e Javascript.
+    O projeto apresenta uma calculadora com duas entradas utilizando html5, css e Javascript.
 </p><br>
 
 ![calculadora](https://user-images.githubusercontent.com/60360540/189750571-4921fbb9-f749-4e86-9df4-01594d0a3ce4.png)
