@@ -23,12 +23,11 @@ main {
 }
 
 h1 {
-    text-align: left;
     padding: 25px 10px 10px 10px;
     font-size: 50px;
 }
 
-h4 {
+h2, h3 {
     padding: 15px 0;
     font-size: 25px;
 }
